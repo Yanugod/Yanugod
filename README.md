@@ -23,13 +23,8 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-&nbsp; <a href="https://www.instagram.com/yanugod/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/windows/45/ffffff/instagram-new.png"/></a>  
-&nbsp; <a href="https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-glyphs/40/ffffff/linkedin.png"/></a>
-&nbsp; <a href="mailto:llerlinalcantara@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/glyph-neue/45/ffffff/gmail-new.png"/>
-</p>
-
-⭐️ From [YANUGOD](https://github.com/Yanugod)
- 
-
-
+<div align="center">
+&nbsp;<a href="https://www.instagram.com/Yanugod/"><img src="https://img.shields.io/badge/instagram%20@Yanugod-4a6b7e?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+&nbsp;<a href="https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/"><img src="https://img.shields.io/badge/linkedin%20@Yanugod-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;<a href="mailto:llerlinalcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail | Hire Me%20-e52b2b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
