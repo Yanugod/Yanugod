@@ -7,15 +7,14 @@
 
 - 🎓 &nbsp; Computer Science Bachelor's Student
 - 🖱 &nbsp; Graphic Designer | Frontend Web Jr.
-- 🐱‍🏍 &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ⏳ &nbsp; I love aesthetics, clean code and organization in my projects.
-- ✍️ &nbsp; Always explore new technologies.
+- ✍️ &nbsp; Always explore new technologies. and trying out latest design trends as hobbies/side hustles.
+- ⏳ &nbsp; I love writing clean code and organizing my projects.
 - ☕ &nbsp; I think a perfect cup of tea is my solution to stress.
 
 <h3>🛠 Tech Stack</h3>
 
 - 🔧 &nbsp; Visual Studio code | Git
-- 💻 &nbsp; PHP  
+- 💻 &nbsp; PHP
 - 🌐 &nbsp; HTML | CSS | JavaScript  
 - 🛢 &nbsp;  MySQL | Xampp
 - 🖥 &nbsp;  Illustrator | Photoshop 
