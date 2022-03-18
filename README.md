@@ -24,9 +24,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/yanugod/" target="_blank" rel="noopener noreferrer"><img src="<img src="https://img.icons8.com/windows/40/ffffff/instagram-new.png"/>"/></a>  
-&nbsp; <a href="https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/40/ffffff/linkedin.png"/></a>
-&nbsp; <a href="mailto:llerlinalcantara@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/glyph-neue/40/ffffff/gmail-new.png"/>
+&nbsp; <a href="https://www.instagram.com/yanugod/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/windows/45/ffffff/instagram-new.png"/></a>  
+&nbsp; <a href="https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-glyphs/40/ffffff/linkedin.png"/></a>
+&nbsp; <a href="mailto:llerlinalcantara@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/glyph-neue/45/ffffff/gmail-new.png"/>
 </p>
 
 ⭐️ From [YANUGOD](https://github.com/Yanugod)
