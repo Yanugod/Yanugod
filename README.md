@@ -1,6 +1,6 @@
 
 <h2>Hello Everyone, I'm Yanuel Alcántara.</h2>
-<h5>Dominican Dev 🇩🇴</h5>
+<h4>Dominican Dev 🇩🇴</h4>
 <img align="right" alt="GIF" src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -24,9 +24,12 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/yanugod/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios/50/ffffff/instagram-new--v1.png"/></a>  
-&nbsp; <a href="https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/></a>
-&nbsp; <a href="mailto:llerlinalcantara@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/glyph-neue/50/ffffff/gmail-new.png"/>
+&nbsp; <a href="https://www.instagram.com/yanugod/" target="_blank" rel="noopener noreferrer"><img src="<img src="https://img.icons8.com/windows/40/ffffff/instagram-new.png"/>"/></a>  
+&nbsp; <a href="https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/40/ffffff/linkedin.png"/></a>
+&nbsp; <a href="mailto:llerlinalcantara@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/glyph-neue/40/ffffff/gmail-new.png"/>
 </p>
 
 ⭐️ From [YANUGOD](https://github.com/Yanugod)
+ 
+
+
