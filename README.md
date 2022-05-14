@@ -13,10 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🔧 &nbsp; Docker | Git
+- 🌐 &nbsp; Javascript | Sass 
 - 💻 &nbsp; PHP
-- 🌐 &nbsp; HTML | CSS | JavaScript  
-- 🛢 &nbsp;  MySQL/Mariadb | Xampp
+- 🛢 &nbsp;  MySQL/MariaDB
+- 🔧 &nbsp; Git
 - 🖥 &nbsp;  Illustrator | Photoshop 
 
 
