@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Computer Science Bachelor's Student
-- 🖱 &nbsp; Graphic Designer | Frontend Web Jr.
+- 🖱 &nbsp;  Frontend Web Jr
 - ✍️ &nbsp; Always explore new technologies. and trying out latest design trends as hobbies/side hustles.
 - ⏳ &nbsp; I love writing clean code and organizing my projects.
 - ☕ &nbsp; I think a perfect cup of tea is my solution to stress.
@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; Javascript | Sass 
-- 💻 &nbsp; PHP
+- 💻 &nbsp; Python
 - 🛢 &nbsp;  MySQL/MariaDB
 - 🔧 &nbsp; Git
 - 🖥 &nbsp;  Illustrator | Photoshop 
