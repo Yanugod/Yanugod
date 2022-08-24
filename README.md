@@ -1,19 +1,18 @@
 
 <h2>Hello Devs, Welcome to Profile</h2>
-<h4>Dominican Dev 🇩🇴</h4>
+<h4>Dominican Dev 🇩🇴 | Frontend Web Jr</h4>
 <img align="right" alt="GIF" src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Computer Science Bachelor's Student
-- 🖱 &nbsp;  Frontend Web Jr
 - ✍️ &nbsp; Always explore new technologies. and trying out latest design trends as hobbies/side hustles.
 - ⏳ &nbsp; I love writing clean code and organizing my projects.
 - ☕ &nbsp; I think a perfect cup of tea is my solution to stress.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; Javascript | Sass 
+- 🌐 &nbsp; Javascript (Vue.js coming soon) | Sass 
 - 💻 &nbsp; Python
 - 🛢 &nbsp;  MySQL/MariaDB
 - 🔧 &nbsp; Git
