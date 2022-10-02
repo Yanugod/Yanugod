@@ -8,11 +8,6 @@
 &nbsp;<a href="mailto:llerlinalcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail | Hire Me%20-e52b2b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 <br>
-<br>
-
-<div align="center"><img alt="GIF" src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" width="500"/></div>
-
-<br>
 
 <p align="center">
 
@@ -41,6 +36,8 @@
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </div>                    
-
 </p>
+
+<div align="center"><img alt="GIF" src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" width="500"/></div>
+
                     
