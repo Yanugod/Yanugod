@@ -1,4 +1,3 @@
-
 <h2>Hello Devs, Welcome to Profile</h2>
 <h4>Dominican Dev 🇩🇴 | Frontend Web Jr</h4>
 <img align="right" alt="GIF" src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" width="500"/>
@@ -12,11 +11,34 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; Javascript (Vue.js coming soon) | Sass 
-- 💻 &nbsp; Python
-- 🛢 &nbsp;  MySQL/MariaDB
-- 🔧 &nbsp; Git
-- 🖥 &nbsp;  Illustrator | Photoshop 
+
+ + 📱FRONTEND
+ 
+    + Css3 | Sass | Tailwind
+    
+    + Javascript
+      + React (Coming Soon)
+      
++ 🖥 BACKEND
+
+    + PHP
+      + (Laravel Coming Soon)
+      
+    + Python (Basic) 
+    
+    
++ 🛢DATABASE
+
+    + MySQL / MariaDB
+    
+      
+- 🔩 TOOLS FOR DEVELOPMENT
+
+    + GIT
+    
+    
+- 🖥️ DESIGNER GRAPHIC
+     + Illustrator / Photoshop 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
