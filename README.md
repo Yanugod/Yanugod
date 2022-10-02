@@ -1,6 +1,6 @@
 <h2 align="center">Hello Devs, Welcome to Profile</h2>
 
-<h4 align="center">Dominican Dev 🇩🇴 | Frontend Web Jr</h4>
+<h4 align="center">Dominican Dev 🇩🇴</h4>
 
 <div align="center">
 &nbsp;<a href="https://www.instagram.com/Yanugod/"><img src="https://img.shields.io/badge/instagram%20@Yanugod-4a6b7e?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
