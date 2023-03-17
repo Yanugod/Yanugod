@@ -3,7 +3,7 @@
 <h4 align="center">Dominican Dev. 🇩🇴</h4>
 
 <div align="center">
-&nbsp;<a href="https://www.instagram.com/Yanugod/"><img src="https://img.shields.io/badge/instagram%20@Yanugod-4a6b7e?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+&nbsp;<a href="https://www.instagram.com/greatyanuel/"><img src="https://img.shields.io/badge/instagram%20@GreatYanuel-4a6b7e?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 &nbsp;<a href="https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/"><img src="https://img.shields.io/badge/linkedin%20@Yanugod-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;<a href="mailto:llerlinalcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail | Hire Me%20-e52b2b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
