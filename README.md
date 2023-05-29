@@ -11,17 +11,17 @@
 <div align="center">
 &nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/github-05212C?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br>
-&nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/JAVASCRIPT-F0D030?style=for-the-badge&logo=Javascript&logoColor=F6F6F6"/></a>
+&nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/JAVASCRIPT-F0D030?style=for-the-badge&logo=Javascript&logoColor=black"/></a>
 &nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/Python-2972D0?style=for-the-badge&logo=Python&logoColor=white"/></a>
 &nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/SASS-DC61DF?style=for-the-badge&logo=SASS&logoColor=white"/></a>
 <br>
 &nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/Vue.js-526D82?style=for-the-badge&logo=Vue.js&logoColor=green"/></a>
 &nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/React.Js-4892F1?style=for-the-badge&logo=React&logoColor=white"/></a>
-&nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/Django-F0D030?style=for-the-badge&logo=Django&logoColor=white"/></a>
+&nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/Django-08A47F?style=for-the-badge&logo=Django&logoColor=054536"/></a>
 &nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/Flask-DDE6ED?style=for-the-badge&logo=flask&logoColor=grey"/></a>
 <br>
 &nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/Json-374259?style=for-the-badge&logo=Json&logoColor=green"/></a>
-&nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/NPM-4892F1?style=for-the-badge&logo=NPM&logoColor=white"/></a>
+&nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/NPM-F55454?style=for-the-badge&logo=NPM&logoColor=white"/></a>
 &nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/Yarn-3A96B1?style=for-the-badge&logo=yarn&logoColor=white"/></a>
 <br>
 &nbsp;<a href="[https://www.linkedin.com/in/llerlin-yanuel-alc%C3%A1ntara-zapata-824b401bb/](https://www.linkedin.com/in/yanugod/)"><img src="https://img.shields.io/badge/mysql-344E86?style=for-the-badge&logo=mySQL&logoColor=white"/></a>
