@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/amrNGnZUeWhZC/giphy.gif" width="100"> I'm {YanuCode}</h1>
+<h1 align="center">What's up! <img src="https://media.giphy.com/media/amrNGnZUeWhZC/giphy.gif" width="100"> I'm ${YanuCode}</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Frontend+Web+Developer;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
 </p>
